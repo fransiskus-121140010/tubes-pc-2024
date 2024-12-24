@@ -22,8 +22,8 @@ title: IF4025 Final Project
 email: fransiskus.121140010@student.itera.ac.id
 description: >- # this means to ignore newlines until "baseurl:"
   This is my final project for IF4025 course. This project is about creating a simple blog using Jekyll and Github Pages.
-baseurl: "pc4025_final_project" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "tubes-pc-2024" # the subpath of your site, e.g. /blog
+url: "https://fransiskus-121140010.github.io/tubes-pc-2024/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KusSikuskus
 github_username:  fransiskus-121140010
 
