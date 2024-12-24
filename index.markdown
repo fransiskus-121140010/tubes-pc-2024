@@ -36,8 +36,8 @@ laporan kesehatan pengguna. Sistem ini terdiri dari tiga komponen utama:
 
 **Berikut adalah tautan untuk mengunduh proposal dan slide presentasi proyek:**
 
-[Download Proposal PDF](assets/pdfs/proposal.pdf)  
-[Download Slide Presentasi PDF](assets/pdfs/presentation.pdf)
+[Download Proposal PDF](/pdfs/proposal.pdf)  
+[Download Slide Presentasi PDF](/pdfs/presentation.pdf)
 
 
 **Lihat Video Proyek di bawah ini:**  
